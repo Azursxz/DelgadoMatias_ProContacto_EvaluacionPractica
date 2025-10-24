@@ -10,8 +10,8 @@ Este repositorio contiene ejercicios teóricos y prácticos sobre el protocolo H
 - [Ejercicio 3: Ejemplo de respuesta JSON](#-ejercicio-3-ejemplo-de-respuesta-json)
 - [Ejercicio 4: Módulos de Trailhead](#-ejercicio-4-módulos-de-trailhead)
 - [Ejercicio 5: Objetos de Salesforce](#-ejercicio-5-objetos-de-salesforce)
-- [Ejercicio 6: Soluciones y funcionalidades de Salesforce](#-ejercicio-6-soluciones-y-funcionalidades-de-salesforce)  
-- [Ejercicio 7: Servicio de actualización de contactos](#-ejercicio-7-servicio-de-actualización-de-contactos)  
+- [Ejercicio 6: Conocimientos de Salesforce](#-ejercicio-6-conocimientos-de-salesforce)
+- [Ejercicio 7: Resolución del ejercicio](#-ejercicio-7-resolución-del-ejercicio)
 
 ---
 
@@ -316,7 +316,7 @@ Relaciones:
 - [**Descargar archivo .drawio**](./Diagrama_ProContacto.drawio)
 - [**Abrir en draw.io**](https://app.diagrams.net/?url=https://raw.githubusercontent.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/main/Diagrama_ProContacto.drawio)
   
-# 📚 Ejercicio 6 - Conocimientos de Salesforce
+# 📚 Ejercicio 6: Conocimientos de Salesforce
 
 ### A. ¿Qué es Salesforce?
 ![Salesforce](https://img.shields.io/badge/Concepto-CRM-blue) 
@@ -434,7 +434,7 @@ Enterprise Resource Planning: sistema que integra y gestiona los recursos intern
 No. Salesforce es principalmente un CRM, aunque puede integrarse con ERPs o tener funciones similares mediante extensiones.
 
 
-# 📚 Ejercicio 7 - Conocimientos de Salesforce
+# 📚 Ejercicio 7: Resolución del ejercicio
 
 ## Aclaraciones de la resolución del ejercicio
 
