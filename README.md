@@ -316,6 +316,7 @@ Relaciones:
 ![Diagrama de Arquitectura ProContacto - Relaciones entre Objetos Salesforce](./Diagrama_ProContacto.png?raw=true)
 
 
+
 # 📚 Ejercicio 6: Conocimientos de Salesforce
 
 ### A. ¿Qué es Salesforce?
