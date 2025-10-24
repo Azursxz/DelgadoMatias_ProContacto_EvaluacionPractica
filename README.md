@@ -307,8 +307,13 @@ Relaciones:
 - Usado para resolver **Cases**
 - Parte de la **Knowledge Base**
 
+## Diagrama de relaciones entre los objetos de Salesforce
 
+![Diagrama de Arquitectura ProContacto - Relaciones entre Objetos Salesforce](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.drawio?raw=true)
 
+[⬇️ Descargar archivo .drawio](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/raw/main/Diagrama_ProContacto.drawio)
+
+  
 # 📚 Ejercicio 6 - Conocimientos de Salesforce
 
 ### A. ¿Qué es Salesforce?
