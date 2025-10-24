@@ -440,9 +440,9 @@ No. Salesforce es principalmente un CRM, aunque puede integrarse con ERPs o tene
 
 ### ¿Por qué se usó System.enqueueJob()?
 
-Límites de callouts en triggers: Los triggers no pueden hacer callouts directamente
-Procesamiento asíncrono: Permite ejecutar operaciones largas sin bloquear la transacción actual
-Flexibilidad: Mayor control sobre el procesamiento
+- Límites de callouts en triggers: Los triggers no pueden hacer callouts directamente
+- Procesamiento asíncrono: Permite ejecutar operaciones largas sin bloquear la transacción actual
+- Flexibilidad: Mayor control sobre el procesamiento
 
 ## Resolución
 
