@@ -6,10 +6,12 @@ Este repositorio contiene ejercicios teóricos y prácticos sobre el protocolo H
 
 ## 📚 Listado de Ejercicios
 
-- [Ejercicio 2: Preguntas sobre HTTP](#ejercicio-2-preguntas-sobre-http)  
-- [Ejercicio 3: Ejemplo de respuesta JSON](#ejercicio-3-ejemplo-de-respuesta-json)  
-- [Ejercicio 6: Soluciones y funcionalidades de Salesforce](#ejercicio-6-soluciones-y-funcionalidades-de-salesforce)  
-- [Ejercicio 7: Servicio de actualización de contactos](#ejercicio-7-servicio-de-actualización-de-contactos)  
+- [Ejercicio 2: Preguntas sobre HTTP](#-ejercicio-2-preguntas-sobre-http)  
+- [Ejercicio 3: Ejemplo de respuesta JSON](#-ejercicio-3-ejemplo-de-respuesta-json)
+- [Ejercicio 4: Módulos de Trailhead](#-ejercicio-4-módulos-de-trailhead)
+- [Ejercicio 5: Objetos de Salesforce](#-ejercicio-5-objetos-de-salesforce)
+- [Ejercicio 6: Soluciones y funcionalidades de Salesforce](#-ejercicio-6-soluciones-y-funcionalidades-de-salesforce)  
+- [Ejercicio 7: Servicio de actualización de contactos](#-ejercicio-7-servicio-de-actualización-de-contactos)  
 
 ---
 
