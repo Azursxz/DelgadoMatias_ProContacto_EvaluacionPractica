@@ -110,15 +110,15 @@ Ejemplos:
 
 ## Punto 1 
 
-![Captura del punto 1](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Captura%20de%20pantalla%202025-10-24%20180458.png?raw=true)
+![Captura del punto 1](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Ejercicio_3_Punto_1.png?raw=true)
 
 ## Punto 2 
 
-![Captura del punto 2](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Captura%20de%20pantalla%202025-10-24%20180409.png?raw=true)
+![Captura del punto 2](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Ejercicio_3_Punto_2.png?raw=true)
 
 ## Punto 3 
 
-![Captura del punto 3](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Captura%20de%20pantalla%202025-10-24%20180334.png?raw=true)
+![Captura del punto 3](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Ejercicio_3_Punto_3.png?raw=true)
 
 
 ### Diferencias entre el punto 1 y el punto 3 
