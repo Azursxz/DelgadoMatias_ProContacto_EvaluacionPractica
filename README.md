@@ -439,6 +439,12 @@ No. Salesforce es principalmente un CRM, aunque puede integrarse con ERPs o tene
 
 ## Aclaraciones de la resolución del ejercicio
 
+### Remote Site Settings
+
+Para que el código funcione se debe crear un nuevo sitio remoto de la pagina web que utilizamos, en nuestro caso es:
+
+`https://procontacto-reclutamiento-default-rtdb.firebaseio.com`
+
 ### ¿Por qué se usó System.enqueueJob()?
 
 - Límites de callouts en triggers: Los triggers no pueden hacer callouts directamente
