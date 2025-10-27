@@ -321,7 +321,7 @@ Relaciones:
 
 [Diagrama ProContacto](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.png)
 
-[Descargar diagrama de relaciones](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/raw/main/Diagrama_ProContacto.drawio)
+[Descargar de relaciones](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.drawio)
 
 # 📚 Ejercicio 6: Conocimientos de Salesforce
 
