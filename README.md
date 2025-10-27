@@ -482,8 +482,9 @@ Para que el código funcione se debe crear un nuevo sitio remoto de la pagina we
               for(Contact con : contactsToUpdate) { 
                   try { 
                       String endpoint = 'https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts/'  
-                                         + con.idprocontacto__c + '.json'; 
-                       
+                                         + con.idprocontacto__c + '.json';
+
+                      // Configuración de la llamada HTTP al servicio externo
                       Http http = new Http(); 
                       HttpRequest request = new HttpRequest(); 
                       request.setEndpoint(endpoint); 
@@ -491,6 +492,7 @@ Para que el código funcione se debe crear un nuevo sitio remoto de la pagina we
                       request.setHeader('Content-Type', 'application/json'); 
                       request.setTimeout(10000); // 10 segundos timeout 
                        
+                      // Ejecuta la llamada al servicio externo
                       HttpResponse response = http.send(request); 
                        
                       if(response.getStatusCode() == 200) { 
@@ -509,8 +511,9 @@ Para que el código funcione se debe crear un nuevo sitio remoto de la pagina we
                   } catch(Exception e) { 
                       System.debug('Error al obtener datos del servicio para el contacto ' + con.Id + ': ' + e.getMessage() + ' - ' + e.getStackTraceString()); 
                   } 
-              } 
-               
+              }
+
+              // Actualiza en la base de datos solo los contactos que cambiaron
               if(!updatedContacts.isEmpty()) { 
                   try { 
                       update updatedContacts; 
