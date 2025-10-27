@@ -319,9 +319,9 @@ Relaciones:
 
 ![Diagrama de Arquitectura ProContacto - Relaciones entre Objetos Salesforce](./Diagrama_ProContacto.png?raw=true)
 
-[Diagrama ProContacto](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.png)
+[Diagrama en formato png](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.png)
 
-[Descargar de relaciones](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.drawio)
+[Diagrama en formato draw.io](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.drawio)
 
 # 📚 Ejercicio 6: Conocimientos de Salesforce
 
