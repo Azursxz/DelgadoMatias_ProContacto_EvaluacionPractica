@@ -317,11 +317,11 @@ Relaciones:
 
 ## Diagrama de relaciones entre los objetos de Salesforce
 
-[📥 Descargar Diagrama ProContacto](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/raw/main/Diagrama_ProContacto.drawio)
-
 ![Diagrama de Arquitectura ProContacto - Relaciones entre Objetos Salesforce](./Diagrama_ProContacto.png?raw=true)
 
+[Diagrama ProContacto](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/blob/main/Diagrama_ProContacto.png)
 
+[Descargar diagrama de relaciones](https://github.com/Azursxz/DelgadoMatias_ProContacto_EvaluacionPractica/raw/main/Diagrama_ProContacto.drawio)
 
 # 📚 Ejercicio 6: Conocimientos de Salesforce
 
